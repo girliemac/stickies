@@ -1,0 +1,4 @@
+stickies
+========
+
+IndexedDB Demo App
