@@ -37,7 +37,7 @@
     function openDB() {
     	if(typeof indexedDB === 'undefined') {
         	// iDB unsupported -- iOS, Opera, other older browsers
-        	alert('Your Browser does not support IndexedDB!');
+        	alert('Wut!? Your Browser does not support IndexedDB!!!\r\rSad Panda :-(');
         	return;
         }
         
